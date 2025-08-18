@@ -106,4 +106,3 @@ Business Impact
 •	Deploy as a Streamlit/Flask app with dashboards for marketers.
 •	Experiment with hybrid recommenders (embeddings + collaborative filtering).
 •	Automate segmentation and affinity reporting for business teams.
-<img width="468" height="650" alt="image" src="https://github.com/user-attachments/assets/235fbcc3-a31c-4122-b55d-d6b7961fad39" />
